@@ -1,5 +1,5 @@
 # 💫 About Me:
-Angular UI Enthusiast | Web Craftsman<br><br>As a seasoned Software Engineer (MCA),<br>I bring 2+ years of expertise in Angular UI development.<br>My passion lies in crafting responsive web applications, <br>enhancing existing platforms, and delivering exceptional user interfaces.<br><br>Currently at Citrus Informatics Pvt Ltd, Kochi, <br>I'm driving projects focused on:<br><br>- Website development<br>- Feature implementation and enhancement<br>- Collaborative team environments<br><br>Explore my repositories and projects.<br>Let's connect and build something amazing together!<br>
+Angular UI Enthusiast | Web Craftsman<br><br>As a seasoned Software Engineer (MCA),<br>I bring 2+ years of expertise in Angular UI development.<br>My passion lies in crafting responsive web applications, <br>enhancing existing platforms, and delivering exceptional user interfaces.<br><br>Currently at Citrus Informatics Pvt Ltd, Kochi, <br>I'm driving projects focused on:<br><br>- Web application development<br>- Feature implementation and enhancement<br>- Collaborative team environments<br><br>Explore my repositories and projects.<br>Let's connect and build something amazing together!<br>
 
 
 ## 🌐 Socials:
